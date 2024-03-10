@@ -1,0 +1,27 @@
+.change-color {
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  width: 150px;
+  height: 40px;
+  background: #4e75ff;
+  font-family: Monsserat regular;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+.change-color:hover,
+.change-color:active {
+  background: #6c8cff;
+}
+
+.text {
+  font-family: Monsserat regular;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
